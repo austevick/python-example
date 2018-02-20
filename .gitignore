@@ -1,0 +1,4 @@
+.git/
+env/
+.DS_STORE
+*.pyc
